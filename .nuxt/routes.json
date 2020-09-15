@@ -1,0 +1,38 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "C:\\\\Users\\\\Triophore\\\\Music\\\\website_nuxt\\\\triophore\\\\pages\\\\404.vue",
+    "chunkName": "pages/404"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\Triophore\\\\Music\\\\website_nuxt\\\\triophore\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "gdpr",
+    "path": "/gdpr",
+    "component": "C:\\\\Users\\\\Triophore\\\\Music\\\\website_nuxt\\\\triophore\\\\pages\\\\gdpr.vue",
+    "chunkName": "pages/gdpr"
+  },
+  {
+    "name": "terms",
+    "path": "/terms",
+    "component": "C:\\\\Users\\\\Triophore\\\\Music\\\\website_nuxt\\\\triophore\\\\pages\\\\terms.vue",
+    "chunkName": "pages/terms"
+  },
+  {
+    "name": "service-blockchain",
+    "path": "/service/blockchain",
+    "component": "C:\\\\Users\\\\Triophore\\\\Music\\\\website_nuxt\\\\triophore\\\\pages\\\\service\\\\blockchain.vue",
+    "chunkName": "pages/service/blockchain"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Triophore\\\\Music\\\\website_nuxt\\\\triophore\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
